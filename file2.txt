@@ -2,3 +2,4 @@ Testing in Part 2
 Testing inside GitHub
 Testing edit inside Atom
 edit before starting part 6 v1
+another edit before starting par 6 v2
